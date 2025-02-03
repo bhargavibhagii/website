@@ -1,0 +1,225 @@
+/* *{
+    margin: 0;
+    padding: 0;
+ }
+ 
+ .main{
+    width: 100%;
+   background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(election.jpg);
+         background-position:center;
+          background-size:corner;
+              height:109vh ;
+
+        
+              
+}
+
+.navbar{
+width: 1200px;
+height: 75px;
+margin: auto;
+
+}
+
+
+.icon{
+      width:200px; 
+      float:left; 
+      height:  70px;
+
+  }
+
+  .telangana-logo {
+    position: relative;
+    top: 50px; /* Adjust this value to control the distance from the top */
+/* }
+
+.telangana-logo {
+    display: block;
+    margin: 0 auto; /* Centers the image horizontally */
+/* }  */
+/* 
+.telangana-logo {
+    display: block;
+    margin: 0 auto; Centers the image */
+/* } */
+
+ /* .menu {
+    margin-top: 20px; /* Adds space between the logo and the menu */
+    /* text-align: center; /* Centers the menu */
+    /* background: rgba(255, 255, 255, 0.8); Light background for visibility
+    padding: 10px; */
+    /* border-radius: 10px;
+} */
+ 
+
+/* .menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: black; /* Ensures the text is visible */
+    /* font-size: 18px;
+    font-weight: bold;
+} */
+
+/* .menu ul li a:hover {
+    color: #007BFF; /* Changes color on hover */
+/* }   */
+
+
+/* .navbar {
+    text-align: center;
+    padding-top: 20px;
+} */
+
+/* Menu styles */
+/* .menu {
+    text-align: center;
+    margin-bottom: 10px; /* Space between menu and logo */
+/* } */ 
+
+/* .menu ul {
+    list-style-type: none;
+    padding: 0;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.8); /* Light background for visibility */
+    /* padding: 10px;
+    border-radius: 10px;
+} */ 
+
+/* .menu ul li {
+    display: inline;
+    margin: 0 15px;
+} */
+
+/* .menu ul li a {
+    text-decoration: none;
+    color: black; /* Ensures visibility */
+    /* font-size: 18px;
+    font-weight: bold;
+}
+
+.menu ul li a:hover {
+    color: #007BFF; Hover effect */
+/* } */ 
+
+/* Logo styles */
+/* .telangana-logo {
+    display: block;
+    margin: 0 auto; /* Centers the logo */
+/* }  */
+ 
+
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+/* Header Styles */
+header {
+    background-color: #004d99;
+    color: white;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img {
+    width: 100px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Hero Section */
+.hero {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.hero img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.hero h1 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.hero p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* Sections */
+.content {
+    padding: 40px 20px;
+    background: white;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.content h2 {
+    color: #004d99;
+}
+
+.content img {
+    width: 80%;
+    max-width: 500px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Footer */
+footer {
+    background: #004d99;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
